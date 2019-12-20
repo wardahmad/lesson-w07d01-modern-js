@@ -12,6 +12,11 @@
 6. Reduce
 7. Practice
 
+## What is JS ES
+ECMAScript 6 is also known as ES6 and ECMAScript. <br>
+ECMAScript (European Computer Manufacturers Association Script)
+
+
 ## Preparation
 
 1. Fork and clone
