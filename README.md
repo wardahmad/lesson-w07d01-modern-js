@@ -126,7 +126,7 @@ function divide(num1, num2) {
 }
 
 function whoIsTheBestIA() {
-  let iaName = 'Alanoud';
+  let iaName = 'Sara';
   console.log(iaName);
 }
 ```
