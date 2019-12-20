@@ -13,8 +13,7 @@
 7. Practice
 
 ## What is JS ES
-ECMAScript 6 is also known as ES6 and ECMAScript. <br>
-ECMAScript (European Computer Manufacturers Association Script)
+JS ES stands for Javascript European Computer Manufacturers Association Script, also known as JS ECMAScript.
 
 
 ## Preparation
