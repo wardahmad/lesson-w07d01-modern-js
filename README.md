@@ -4,14 +4,13 @@
 
 ## Agenda
 
-1. Strict mode
+1. Explaning of Strict mode
 2. Arrow functions
 3. forEach
 4. Map
 5. Filter
 6. Reduce
-7. Keep Going
-8. Practice
+7. Practice
 
 ## Preparation
 
@@ -383,13 +382,7 @@ The `reduce()` method executes a reducer function (that you provide) on each ele
     // Write your solution here
     ```
 
-### Keep Going
 
-There are a lot of features in ES6 that we have not covered:
-
-- [Destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
-- [Rest parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)
-- [Spread operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
 
 ### Practice
 
@@ -505,3 +498,9 @@ const panagrams = [ 'The','job', 'requires', 'extra', 'pluck', 'and', 'zeal', 'f
 
 - Filter for words that have at least two vowels in them
 - Find each instance of the word zephyr - include case insensitve and plurals (Zephyr, zephyrs, and Zephyrs), and list the index positions
+
+### Recommended Material
+
+- [Destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
+- [Rest parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)
+- [Spread operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
