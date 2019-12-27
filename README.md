@@ -2,7 +2,15 @@
 
 # Modern JavaScript
 
-## Agenda
+## Objectives
+*After this lesson, developers will be able to:*
+
+- Use strict mode in their code
+- Define arrow functions in javascript
+- play with foreach loop in javascript
+- Use map method in javascipt
+- Use Filter
+- Use Reduce
 
 1. Explaning of Strict mode
 2. Arrow functions
