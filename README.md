@@ -201,7 +201,7 @@ Lastly, the `forEach` method always returns the value `undefined`.
 #### Example 1: Using forEach
 
 ```js
-const instructors = ['Usman', 'Marc', 'Alanoud'];
+const instructors = ['Saad', 'Samar', 'Abdullah'];
 
 // Print each instructor
 instructors.forEach(function(element) {
@@ -218,7 +218,7 @@ instructors.forEach(function(element, index) {
 #### Example 2: Converting a for-loop to forEach
 
 ```js
-const instructors = ['Usman', 'Marc', 'Alanoud'];
+const instructors = ['Saad', 'Samar', 'Abdullah'];
 const instructorsCopy = [];
 
 // For Loop
