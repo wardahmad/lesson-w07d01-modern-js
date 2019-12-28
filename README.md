@@ -56,7 +56,7 @@ var Infinity = 5; // throws a TypeError
 var NaN = 5; // throws a TypeError
 ```
 
-#### Lab: (15 mins)
+#### Lab: (20 mins)
 
 Read the resources below and experiment with what you know of JavaScript in the strict mode to see how it behaves differently.
 
@@ -68,6 +68,7 @@ Read the resources below and experiment with what you know of JavaScript in the 
 2. [MDN: Transitioning to strict mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode/Transitioning_to_strict_mode)
 3. [CanIUse: ECMAScript 5 Strict Mode](https://caniuse.com/#feat=use-strict)
 
+<hr>
 
 ### Arrow functions
 
@@ -185,6 +186,7 @@ Your solution:
 1. [MDN: Arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 2. [ES6 In Depth: Arrow functions" on hacks.mozilla.org](https://hacks.mozilla.org/2015/06/es6-in-depth-arrow-functions/)
 
+<hr>
 
 ### forEach
 
@@ -311,6 +313,7 @@ The `map()` method creates a new array with the results of calling a provided fu
     // Write your solution here
     ```
 
+<hr>
 
 ### Filter: Team Study (30 mins)
 
@@ -350,6 +353,7 @@ The `filter()` method creates a new array with all elements that pass the test i
     // Write your solution here
     ```
 
+<hr>
 
 ### Reduce: Team Study (30 mins)
 
@@ -395,8 +399,10 @@ The `reduce()` method executes a reducer function (that you provide) on each ele
     ```
 
 
+<hr>
 
 ### Practice
+<hr>
 
 #### Map
 
