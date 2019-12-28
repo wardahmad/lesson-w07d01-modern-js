@@ -22,8 +22,10 @@
 6. Reduce with examples
 7. Practice with examples
 
+
 ## What is JS ES
-JS ES stands for Javascript European Computer Manufacturers Association Script, also known as JS ECMAScript.
+JS ES stands for Javascript European Computer Manufacturers Association Script, also known as JS ECMAScript. <br>
+ECMAScript is a scripting-language specification standardized by ECMA International. It was created to standardize JavaScript to help foster multiple independent implementations.
 
 
 ## Preparation
