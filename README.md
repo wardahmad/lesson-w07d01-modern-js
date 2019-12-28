@@ -9,16 +9,18 @@
 - Define arrow functions in javascript
 - play with foreach loop in javascript
 - Use map method in javascipt
-- Use Filter
-- Use Reduce
+- Use Filter method in javascipt
+- Use Reduce method in javascipt
 
-1. Explaning of Strict mode
-2. Arrow functions
-3. forEach
-4. Map
-5. Filter
-6. Reduce
-7. Practice
+## Agenda
+*Explaning of:* 
+1. Strict mode with examples
+2. Arrow functions with examples
+3. forEach with examples
+4. Map with examples
+5. Filter with examples
+6. Reduce with examples
+7. Practice with examples
 
 ## What is JS ES
 JS ES stands for Javascript European Computer Manufacturers Association Script, also known as JS ECMAScript.
