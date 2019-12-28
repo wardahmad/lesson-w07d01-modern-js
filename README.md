@@ -294,7 +294,7 @@ The `map()` method creates a new array with the results of calling a provided fu
     Capitalize all the strings in the IA's array and store them in the array capitalizedIA.
 
     ```js
-    const iAS = ['Sara', 'Abdullah', 'someone', 'noone'];
+    const iAS = ['Sara', 'Abdullah', 'Ali', 'Khan'];
     let capitalizedIAs = [];
 
     // Write your solution here
