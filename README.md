@@ -477,7 +477,7 @@ const panagram = ['The', 'quick','brown','fox', 'jumps', 'over', 'the', 'lazy', 
 
 const panagrams = [ 'The','job', 'requires', 'extra', 'pluck', 'and', 'zeal', 'from', 'every', 'young', 'wage', 'earner',  'Quick', 'zephyrs', 'blow,', 'vexing', 'daft', 'Jim', 'Two', 'driven', 'jocks', 'help', 'fax', 'my', 'big', 'quiz', 'Five', 'quacking', 'zephyrs', 'jolt', 'my', 'wax', 'bed', 'The', 'five', 'boxing', 'wizards', 'jump', 'quickly', 'Pack', 'my', 'box', 'with', 'five', 'dozen', 'liquor', 'jugs', 'We', 'promptly', 'judged', 'antique', 'ivory', 'buckles', 'for', 'the', 'next', 'prize', 'Jaded', 'zombies', 'acted', 'quaintly', 'but', 'kept','driving','their','oxen','forward' ]
 ```
-
+#### Part 1.
 ##### [every](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every)
 
 - Determine if every number is greater than or equal to 0
@@ -493,6 +493,8 @@ const panagrams = [ 'The','job', 'requires', 'extra', 'pluck', 'and', 'zeal', 'f
 - Find the first value divisible by 5
 - Find the first word that is longer than 6 characters
 
+#### Part 2.
+
 ##### [findIndex](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex)
 - Find the index of the first number that is divisible by 3
 - Find the index of the first word that is less than 2 characters long
@@ -504,6 +506,9 @@ const panagrams = [ 'The','job', 'requires', 'extra', 'pluck', 'and', 'zeal', 'f
 ##### [map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 - Make a new array of each number multiplied by 100
 - Make a new array of all the words in all uppercase
+
+
+#### Part 3.
 
 ##### [reduce](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
 - Add all the numbers in the array together using the `reduce` method
