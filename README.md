@@ -130,7 +130,7 @@ const add = (x, y) => x + y;
 
 #### Lab: (15 mins)
 
-##### Convert the following functions to arrow functions.
+##### 1. Convert the following functions to arrow functions.
 
 ```js
 function addFive(num) {
@@ -153,7 +153,7 @@ Your solution:
 
 ```
 
-##### Create a function called `fullName`
+##### 2. Create a function called `fullName`
 
 `fullName` receives two parameters, `first` and `last` and returns the full name.
 
@@ -169,7 +169,7 @@ Your solution:
 
 ```
 
-##### Turn `sayHello` into an arrow function
+##### 3. Turn `sayHello` into an arrow function
 
 ```js
 function sayHello(name = "World") {
