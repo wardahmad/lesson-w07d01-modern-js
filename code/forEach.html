@@ -1,0 +1,53 @@
+<script>
+const instructors = ['Saad', 'Samar', 'Abdullah'];
+
+// Print each instructor
+instructors.forEach(function(element) {
+  console.log(element);
+});
+
+
+// Print each instructor along with their Array index
+instructors.forEach(function(element, index) {
+  console.log(element, index);
+});
+
+const friends = ["Mansour", "Munira", "Ahmed"];
+
+// For each friend in friends, print "Hi friendName!"
+// Write your solution here
+friends.forEach(function(frind){
+    console.log(`Hi ${frind}`)
+})
+
+// Thats an array with crazy numbers we cant read 😯
+const nums = [103440, 3799.2663, 3.14159265359, 859494, 59439];
+let total = 0;
+
+// Sum all the numbers in nums and save the result in total
+// Write your solution here
+nums.forEach(function(num){
+    total += num
+    //console.log(total)
+})
+console.log(total)
+
+
+// These crazy numbers now are strings 😯 😯  !!  
+const stringNumbers = ["103440", "3799.2663", "3.14159265359", "859494", "59439"];
+let totalNumbersUnder4000 = 0;
+
+// Convert numbers from strings to numbers and 
+// sum all numbers under 4000 and store them 
+// in totalNumbersUnder4000
+//
+// Write your solution here
+
+stringNumbers.forEach(function(sNum){
+    var num = parseFloat(sNum)
+    if (num < 4000){
+        totalNumbersUnder4000 += num
+    }
+})
+console.log(totalNumbersUnder4000)
+</script>

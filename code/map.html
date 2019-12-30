@@ -1,0 +1,88 @@
+<script>
+//const nums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+//let times100 = [];
+// Write your solution here
+//let times100 = nums.map(num => num * 100)
+//console.log(times100)
+
+
+const iAS = ['Sara', 'Abdullah', 'Ali', 'Khan'];
+
+// Write your solution here
+let capitalizedIAs = iAS.map(name => {return name.toUpperCase()})
+console.log(capitalizedIAs)
+
+
+const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+
+
+// Find the abbreviation of all days and add them to dayAbbreviations array
+// Write your solution here
+let dayAbbreviations = days.map(day => {return day.substring(0,3)})
+console.log(dayAbbreviations)
+
+
+//const years = [1989, 2015, 2000, 1999, 2013, 1973, 2012];
+//let century20 =  years.map(year => {if (year <= 2000 ){return year}})
+//var results = century20.filter(function(item){
+    //return typeof item ==='number';  
+//});
+//console.log(results)
+
+// century20 should be: [1989, 2000, 1999, 1973]
+// Write your solution here
+
+const nums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+// Write your solution here
+var result = nums.filter(num => {return  (num % 3) === 0})
+console.log(result);
+
+const names = ["Sara", "Abdulrahman", "Eman", "awwwww"];
+// Write your solution here
+var result = names.filter(name => {if (name.toUpperCase().search("A") !== -1){
+    return name;
+}})
+console.log(result)
+
+const years = [1989, 2015, 2000, 1999, 2013, 1973, 2012];
+// century20 should be: [1989, 2000, 1999, 1973]
+// Write your solution here
+var century20 = years.filter(year => year <= 2000)
+console.log(century20)
+
+const nums2 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+// Write your solution here
+let sum = (num1 , num2) => num1 + num2;
+console.log(nums2.reduce(sum));
+
+
+// Thats an array with crazy numbers we cant read 😯
+const nums3 = [103440, 3799.2663, 3.14159265359, 859494, 59439];
+let total = (a,b) => a+b;
+// Sum all the numbers in nums and save the result in total
+// Write your solution here
+console.log(nums3.reduce(total))
+
+
+// These crazy numbers now are strings 😯 😯  !!  
+const stringNumbers = ["103440", "3799.2663", "3.14159265359", "859494", "59439"];
+var resInt = [];
+let res
+let totalNumbersUnder4000 = stringNumbers.forEach(function(element) {
+  if (parseFloat(element) <= 4000){
+      resInt.push(parseFloat(element))
+      res = (c,d) => c + d
+      
+  }
+});
+console.log(resInt.reduce(res))
+
+
+
+// Convert numbers from strings to and 
+// sum all numbers under 4000 and store them 
+// in totalNumbersUnder4000
+//
+// Write your solution here
+
+</script>
